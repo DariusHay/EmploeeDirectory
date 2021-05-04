@@ -8,11 +8,11 @@ This application allows the user to research a directory list of a company to fi
 
 ## Table of Content
 
-1. [Installation requirements](#installation)
+1. [Installation requirements](#Installation)
 2. [Screenshots](#Screenshots)
 3. [Deployed](#Deployed)
-4. [Contributions](#contributing)
-5. [Questions](#questions)
+4. [Contributions](#Contributions)
+5. [Questions](#Questions)
 
 ## Installation
 
